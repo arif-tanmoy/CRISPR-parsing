@@ -60,3 +60,4 @@ for cur in infile:
 		print info
 infile.close()
 outfile.close()
+
