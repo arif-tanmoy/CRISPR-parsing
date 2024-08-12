@@ -11,10 +11,8 @@
 *Silent line 60 if you do not want to print/see the results on commandline*
 
 ### Requirements
-'''
-=> python 2.7
-=> packages: sys, numpy
-'''
+=> _python 2.7_
+=> packages: _sys_, _numpy_
 
 #### Citing CRISPRDetect: 
 >Biswas A et al (2016). https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0
